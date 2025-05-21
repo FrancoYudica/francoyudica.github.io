@@ -64,4 +64,4 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 If you have any questions or concerns about this policy, please contact us at:
 
 - **Email:** [fyudica21@gmail.com](mailto:fyudica21@gmail.com)  
-- **Website:** [https://franco-yudica.itch.io/](https://franco-yudica.itch.io/)
+- **Website:** [https://francoyudica.github.io/posts/PathForger/](https://francoyudica.github.io/posts/PathForger/)
