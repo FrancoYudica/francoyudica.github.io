@@ -1,7 +1,3 @@
-.firebase
-.firebaserc
-firebase.json
-
 # Bundler cache
 .bundle
 vendor
