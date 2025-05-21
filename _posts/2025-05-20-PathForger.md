@@ -10,7 +10,7 @@ tags: [
 description: Hook, dodge, and climb in this challenging vertical arcade platformer.
 
 image:
-  path: /assets/path_forger/gifs/easy.gif
+  path: /assets/path_forger/gifs/easy-rotated.gif
 ---
 
 ![##Path Forger](assets/path_forger/imgs/itch_banner.png)
