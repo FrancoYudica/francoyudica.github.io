@@ -11,7 +11,6 @@ description: Hook, dodge, and climb in this challenging vertical arcade platform
 
 image:
   path: /assets/path_forger/gifs/easy.gif
-  #https://img.itch.zone/aW1nLzIxMjIzNjg4LnBuZw==/315x250%23c/OZ5ccy.png
 ---
 
 ![##Path Forger](assets/path_forger/imgs/itch_banner.png)
