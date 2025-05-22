@@ -7,7 +7,7 @@ robots: noindex
 
 
 **Effective Date:** 04/21/2025  
-**Website:** [https://francoyudica.github.io/posts/PathForger/](https://francoyudica.github.io/posts/PathForger/)
+**Website:** [https://www.francoyudica.com/posts/PathForger/](https://www.francoyudica.com/posts/PathForger/)
 
 ---
 
@@ -64,4 +64,4 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 If you have any questions or concerns about this policy, please contact us at:
 
 - **Email:** [fyudica21@gmail.com](mailto:fyudica21@gmail.com)  
-- **Website:** [https://francoyudica.github.io/posts/PathForger/](https://francoyudica.github.io/posts/PathForger/)
+- **Website:** [https://www.francoyudica.com/posts/PathForger/](https://www.francoyudica.com/posts/PathForger/)
