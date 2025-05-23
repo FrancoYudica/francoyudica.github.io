@@ -13,7 +13,7 @@ tags: [
 description: My first-ever game jam!
 
 image:
-  path: /assets/tethering_faith/sample_image.png
+  path: /assets/tethering_faith/game.gif
 ---
 
 Joined the [New Year New Skills Game Jam!](https://itch.io/jam/new-year-new-skills-game-jam)

@@ -12,7 +12,7 @@ tags: [
 description: My first-ever solo game jam! I created Path Forger in just nine days.
 
 image:
-  path: /assets/path_forger_game_jam/game_image.png
+  path: /assets/path_forger_game_jam/game.gif
 ---
 
 ## Path Forger
