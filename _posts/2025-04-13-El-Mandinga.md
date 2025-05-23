@@ -11,7 +11,7 @@ tags: [
 description: My submission to the Godot Meetup Argentina Game Jam!
 
 image:
-  path: /assets/el-mandinga/el-mandinga.png
+  path: /assets/el-mandinga/game.gif
 ---
 
 Joined [Godot Meetup Argentina Game Jam!](https://itch.io/jam/godot-meetup-argentina-gamejam). The theme of the game jam was **Creatures of the mountain, the pampas and the river**.
