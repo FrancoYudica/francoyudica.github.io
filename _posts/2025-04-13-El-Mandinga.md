@@ -32,7 +32,55 @@ In this project, I led the development and handled the following tasks:
 - And of course, collaborated with the art team to implement all assets, including textures, models, music, and sound effects.
 
 This game jam was short but amazing. I'm proud of what we were able to pull of with just 3 days of development and 2 programmers.
+<!-- Center wrapper -->
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <div style="position: relative; width: 750px; height: 445px;">
+    <!-- Thumbnail image -->
+    <img id="gameThumb" 
+         src="https://img.itch.zone/aW1hZ2UvMzQ2Njg1OC8yMDY5NjQyNS5wbmc=/original/Lmwq%2B1.png" 
+         alt="Click to Play" 
+         style="width: 100%; height: 100%; display: block;">
 
-[![Itch.io download link](https://static.itch.io/images/badge-color.svg){: .dark .w-25 w="200"}](https://zhamiska.itch.io/el-mandinga)
+    <!-- Play button overlay -->
+    <button id="playBtn" 
+            style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                   padding: 12px 24px; font-size: 20px; cursor: pointer; border: none;
+                   background-color: rgba(0,0,0,0.6); color: white; border-radius: 8px;">
+      ▶ Play
+    </button>
 
+    <!-- Game iframe, hidden initially -->
+    <iframe id="gameFrame" 
+            src="https://itch.io/embed-upload/13381855?color=000000" 
+            frameborder="0" 
+            allowfullscreen 
+            width="750" 
+            height="445" 
+            style="display: none;">
+      <a href="https://zhamiska.itch.io/el-mandinga">Play El Mandinga on itch.io</a>
+    </iframe>
+  </div>
+</div>
 
+<script>
+document.getElementById('playBtn').addEventListener('click', function() {
+  document.getElementById('gameThumb').style.display = 'none';  // Hide thumbnail
+  this.style.display = 'none';                                  // Hide button
+  document.getElementById('gameFrame').style.display = 'block'; // Show game
+});
+</script>
+
+<!-- <div style="width: 550px; text-align: center; margin-bottom: 10px;">
+  <a href="https://zhamiska.itch.io/el-mandinga" target="_blank">
+    Play El Mandinga on itch.io
+  </a>
+</div> -->
+<br>
+
+<div>
+<iframe frameborder="0" 
+        src="https://itch.io/embed/3466858?border_width=0" 
+        width="550" 
+        height="165">
+</iframe>
+</div>
