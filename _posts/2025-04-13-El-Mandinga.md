@@ -70,11 +70,6 @@ document.getElementById('playBtn').addEventListener('click', function() {
 });
 </script>
 
-<!-- <div style="width: 550px; text-align: center; margin-bottom: 10px;">
-  <a href="https://zhamiska.itch.io/el-mandinga" target="_blank">
-    Play El Mandinga on itch.io
-  </a>
-</div> -->
 <br>
 
 <div>

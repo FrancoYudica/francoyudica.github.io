@@ -40,6 +40,4 @@ I took the role of lead developer and was responsible for designing the game arc
 
 After the jam ended, I shared the project with my *Formal Languages and Computability* professor. She was impressed by the FSM and automata implementations and later invited me to give a talk at my college about finite state machines and their applications in game development.
 
-
-
-[![Itch.io download link](https://static.itch.io/images/badge-color.svg){: .dark .w-25 w="200"}](https://franco-yudica.itch.io/tethering-faith)
+<iframe frameborder="0" src="https://itch.io/embed/2468334?bg_color=000000&amp;fg_color=c6e4eb&amp;link_color=ae1abe&amp;border_color=333333" width="552" height="167"><a href="https://franco-yudica.itch.io/tethering-faith">Tethering Faith by Franco Yudica, Futotori, KosoGames, Sage901, TheBlackSolace</a></iframe>

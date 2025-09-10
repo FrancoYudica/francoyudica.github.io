@@ -27,8 +27,13 @@ I hope you like it!
 {% include embed/youtube.html id='_-zPgV2xms4' %}
 
 ## Download
-Currently, Path Forger is only available on itch.io, but it will soon be available on the Play Store!
-[![Itch.io download link](https://static.itch.io/images/badge-color.svg){: .dark .w-25 w="200"}](https://franco-yudica.itch.io/path-forger)
+
+You can find Path Forger on itch and on the play store
+
+[![Play Store download link](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png){: .dark .w-25 w="200"}](https://play.google.com/store/apps/details?id=com.pathforger.pathforger)
+
+<iframe frameborder="0" src="https://itch.io/embed/2640506?bg_color=150925&amp;fg_color=e8daf6&amp;link_color=40ff89&amp;border_color=443854" width="552" height="167"><a href="https://franco-yudica.itch.io/path-forger">Path Forger by Franco Yudica</a></iframe>
+
 
 ## Technical stuff
 
