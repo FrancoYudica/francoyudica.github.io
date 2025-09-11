@@ -7,7 +7,8 @@ tags: [
     game jam,
     shaders,
     computer graphics,
-    godot]     
+    godot,
+    playable in website]     
 description: My submission to the Godot Meetup Argentina Game Jam!
 
 image:
