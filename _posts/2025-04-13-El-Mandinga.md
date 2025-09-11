@@ -63,10 +63,12 @@ This game jam was short but amazing. I'm proud of what we were able to pull of w
 </div>
 
 <script>
-document.getElementById('playBtn').addEventListener('click', function() {
-  document.getElementById('gameThumb').style.display = 'none';  // Hide thumbnail
-  this.style.display = 'none';                                  // Hide button
-  document.getElementById('gameFrame').style.display = 'block'; // Show game
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById('playBtn').addEventListener('click', function() {
+    document.getElementById('gameThumb').style.display = 'none';
+    this.style.display = 'none';
+    document.getElementById('gameFrame').style.display = 'block';
+  });
 });
 </script>
 
