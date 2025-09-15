@@ -7,7 +7,7 @@ tags: [
     computer graphics, 
     python,
     sdl]     
-description: My first platformer game
+description: My first platformer game, made from scratch
 
 image:
   path: /assets/pixel-adventure/preview.gif
