@@ -9,7 +9,9 @@ tags: [
     computer graphics,
     dialogue system,
     ui,
-    godot]     
+    godot,
+    pixelart,
+    2d]     
 description: My first-ever game jam!
 
 image:

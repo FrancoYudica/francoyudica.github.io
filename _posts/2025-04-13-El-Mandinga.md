@@ -8,7 +8,8 @@ tags: [
     shaders,
     computer graphics,
     godot,
-    playable in website]     
+    playable in website,
+    3d]     
 description: My submission to the Godot Meetup Argentina Game Jam!
 
 image:

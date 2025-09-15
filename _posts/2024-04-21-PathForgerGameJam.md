@@ -8,7 +8,8 @@ tags: [
     game jam winner,
     shaders,
     computer graphics,
-    open source]     
+    open source,
+    2d]     
 description: My first-ever solo game jam! I created Path Forger in just nine days.
 
 image:

@@ -7,7 +7,8 @@ tags: [
     computer graphics, 
     google play store,
     shaders,
-    godot]     
+    godot,
+    2d]     
 description: Hook, dodge, and climb in this challenging vertical arcade platformer.
 
 image:

@@ -6,7 +6,9 @@ tags: [
     game, 
     computer graphics, 
     python,
-    sdl]     
+    sdl,
+    pixelart,
+    2d]     
 description: My first platformer game, made from scratch
 
 image:
