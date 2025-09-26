@@ -9,7 +9,7 @@ tags: [
     shaders,
     godot,
     2d]     
-description: Hook, dodge, and climb in this challenging vertical arcade platformer.
+description: My fist Google Play Store game!
 
 image:
   path: /assets/path_forger/gifs/easy-rotated.gif
