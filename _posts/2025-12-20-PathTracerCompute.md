@@ -19,7 +19,6 @@ image:
   path: /assets/path-tracer-compute/sample.png
 ---
 
-## Path Tracer
 # GPU Path Tracer in Godot
 
 This project is a custom **Compute Shader-based path tracer** built from the ground up within the Godot engine. By moving the light transport calculations to the GPU, the renderer achieves photorealistic effects like global illumination, soft shadows, and true reflections through progressive accumulation.
