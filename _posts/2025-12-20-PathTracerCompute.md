@@ -11,7 +11,8 @@ tags: [
     c++,
     open source,
     parallel programming,
-    low level programming
+    low level programming,
+    3d
 ]
 description: A compute shader based path tracer
 
