@@ -12,7 +12,7 @@ tags: [
 description: Our submission to the Global Game Jam 2026
 
 image:
-  path: /assets/il-colpo-mascherato/sample.png
+  path: /assets/il-colpo-mascherato/sample.gif
 ---
 
 # Il Colpo Mascherato
