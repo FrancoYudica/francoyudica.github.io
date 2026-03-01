@@ -9,7 +9,7 @@ tags: [
     java,
     assembly,
     mips]     
-description: Made a compiler form scratch using Java and Assembly
+description: Made a compiler from scratch using Java and Assembly
 
 image:
   path: /assets/tinys-compiler/sample.png
