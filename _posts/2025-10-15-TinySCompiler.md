@@ -15,7 +15,7 @@ image:
   path: /assets/tinys-compiler/sample.png
 ---
 
-![##TinyS](/assets/tinys-compiler/sample.png)
+## TinyS
 
 TinyS is a custom-built compiler that translates a subset of the Swift programming language into MIPS assembly. Developed in Java, this project focuses on the implementation of core Object-Oriented Programming (OOP) principles at the machine level.
 
