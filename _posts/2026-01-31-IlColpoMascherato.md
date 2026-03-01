@@ -39,9 +39,15 @@ This project was a true exercise in rapid prototyping and creative collaboration
     </button>
 
     <!-- Game iframe, hidden initially -->
-    <iframe frameborder="0" src="https://itch.io/embed-upload/16460354?color=5b050e" allowfullscreen="" width="640" height="380"><a href="https://kosogames.itch.io/il-colpo-mascherato">Play Il colpo mascherato on itch.io</a></iframe>
-
-    <a href="https://kosogames.itch.io/il-colpo-mascherato">Play on itch.io</a></iframe>
+    <iframe id="gameFrame"
+            src="https://itch.io/embed-upload/16460354?color=5b050e"
+            frameborder="0" 
+            allowfullscreen="" 
+            width="750" 
+            height="422"
+            style="display: none;">
+      <a href="https://kosogames.itch.io/il-colpo-mascherato">Play on itch.io</a>
+    </iframe>
 
   </div>
 </div>
