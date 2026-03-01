@@ -45,6 +45,12 @@ This work is published under [MIT][mit] License.
 
 # Run locally
 
+Fist, install dependencies
+```bash
+bundle install
+```
+
+Run command
 ```bash
 bundle exec jekyll server
 ```
