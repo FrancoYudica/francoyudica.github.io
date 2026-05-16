@@ -1,6 +1,6 @@
 ---
 title: Ultimo Piloto
-date: 2026-05-16 12:00:00 -0300
+date: 2026-05-03 12:00:00 -0300
 categories: [game]
 tags: [
     game,
@@ -25,8 +25,6 @@ While the game might look simple on the surface, it features a massive number of
 Architectural patterns aside, I kept working on the game to add some extra polish after the jam wrapped up. I played around a lot with shaders and dynamic post-processing. Sci-fi games are the perfect canvas for adding tons of VFX, and I had so much fun with this one!
 
 ## Play the game
-
-<iframe frameborder="0" src="https://itch.io/embed-upload/17552809?color=000000" allowfullscreen="" width="640" height="380"><a href="https://zhamiska.itch.io/ultimo-piloto">Play Último piloto on itch.io</a></iframe>
 
 <!-- Center wrapper -->
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
