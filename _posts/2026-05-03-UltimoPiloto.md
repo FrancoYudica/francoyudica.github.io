@@ -31,7 +31,7 @@ Architectural patterns aside, I kept working on the game to add some extra polis
   <div style="position: relative; width: 750px; height: 422px;">
     <!-- Thumbnail image -->
     <img id="gameThumb" 
-         src="/assets/il-colpo-mascherato/sample.png" 
+         src="/assets/ultimo-piloto/sample.png" 
          alt="Click to Play" 
          style="width: 100%; height: 100%; display: block; filter: brightness(25%);">
 
