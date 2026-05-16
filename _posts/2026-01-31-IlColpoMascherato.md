@@ -7,7 +7,8 @@ tags: [
     game jam,
     2d,
     teamwork,
-    playable in website
+    playable in website,
+    godot
 ]
 description: Our submission to the Global Game Jam 2026
 
